@@ -44,7 +44,7 @@ The app interacts with a backend server to fetch and update feedback data. HTTP 
 
 ### CSS Styling
 
-CSS is used to style the components and create an appealing user interface. The app leverages CSS frameworks or libraries like Bootstrap or Tailwind CSS for faster and responsive styling.
+CSS is used to style the components and create an appealing user interface. 
 
 ### Conditional Rendering
 
